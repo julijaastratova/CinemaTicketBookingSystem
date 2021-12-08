@@ -6,8 +6,7 @@ namespace CinemaTicketBookingSystem
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Privet!");
-            //z
+            Console.WriteLine("Hello World!");
         }
     }
 }
